@@ -1,0 +1,11 @@
+po_id,vendor_name,date,item,quantity,unit_price,status
+PO001,Alpha Supplies,2025-01-05,Laptops,10,550,Delivered
+PO002,Beta Traders,2025-01-08,Office Chairs,25,80,Pending
+PO003,Alpha Supplies,2025-01-11,Keyboards,40,20,Delivered
+PO004,Delta Tech,2025-01-14,Monitors,12,180,Delivered
+PO005,Beta Traders,2025-01-16,Mouse,50,15,Pending
+PO006,Omega Corp,2025-01-18,Printers,5,250,Delivered
+PO007,Delta Tech,2025-01-20,HDMI Cables,60,8,Delivered
+PO008,Alpha Supplies,2025-01-22,Webcams,15,45,Pending
+PO009,Omega Corp,2025-01-25,Projectors,3,750,Delivered
+PO010,Beta Traders,2025-01-28,Desks,10,150,Pending
